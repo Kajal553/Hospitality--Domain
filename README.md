@@ -1,7 +1,7 @@
 # Hospitality--Domain
 
-Link To interactive dashboard:
-https://app.powerbi.com/groups/me/reports/0653acbe-42f5-450a-b39b-558d274f5ba5/ReportSection?experience=power-bi
+_[Link To interactive dashboard:]
+(https://app.powerbi.com/groups/me/reports/0653acbe-42f5-450a-b39b-558d274f5ba5/ReportSection?experience=power-bi)_
 
 # Project Announcement: Revenue Insights in the Hospitality Industry
 
