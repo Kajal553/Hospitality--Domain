@@ -4,10 +4,12 @@ _[Link To interactive dashboard:](https://app.powerbi.com/groups/me/reports/0653
 
 # Project Announcement: Revenue Insights in the Hospitality Industry
 
-**Problem Statement**
+### Problem Statement
+
 Atliq Grands, a prominent player in the hospitality sector with a two-decade legacy, owns a network of five-star hotels across India. Facing challenges from strategic moves by competitors and suboptimal decision-making in management, Atliq Grands has witnessed a decline in market share and revenue within the luxury/business hotels segment. In a strategic initiative to reverse this trend, the managing director aims to integrate "Business and Data Intelligence" to reclaim market share and revenue. However, lacking an in-house data analytics team, Atliq Grands has decided to enlist the services of a third-party provider to extract insights from their historical data.
 
 **Task List:**
+
 As a data analyst, your responsibility involves working on the given task, utilizing sample data and a mock-up dashboard provided. Relevant documents for download are available in the designated section.
 
 1. Formulate metrics based on the provided metric list.
