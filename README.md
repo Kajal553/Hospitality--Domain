@@ -4,16 +4,16 @@ _[Link To interactive dashboard:](https://app.powerbi.com/groups/me/reports/0653
 
 # Project Announcement: Revenue Insights in the Hospitality Industry
 
-Greetings, everyone!
+**Problem Statement**
+Atliq Grands, a prominent player in the hospitality sector with a two-decade legacy, owns a network of five-star hotels across India. Facing challenges from strategic moves by competitors and suboptimal decision-making in management, Atliq Grands has witnessed a decline in market share and revenue within the luxury/business hotels segment. In a strategic initiative to reverse this trend, the managing director aims to integrate "Business and Data Intelligence" to reclaim market share and revenue. However, lacking an in-house data analytics team, Atliq Grands has decided to enlist the services of a third-party provider to extract insights from their historical data.
 
-I am thrilled to share the successful completion of a captivating project in the hospitality domain – "Revenue Insights in the Hospitality Industry."
+**Task List:**
+As a data analyst, your responsibility involves working on the given task, utilizing sample data and a mock-up dashboard provided. Relevant documents for download are available in the designated section.
 
-## What I've Learned:
-This journey allowed me to immerse myself in the unique challenges of the hospitality industry and apply my data analytics skills to address real-world problems.
+1. Formulate metrics based on the provided metric list.
+2. Develop a dashboard in alignment with the stakeholders' mock-up.
+3. Generate insightful findings beyond those specified in the metric list/mock-up dashboard.
 
-## The Project:
-The primary objective of this project was to provide data-driven insights to the Revenue team in the hospitality domain. 
-It has been a thrilling challenge to leverage data analytics to address real-world challenges and facilitate informed decision-making.
 
 ## Insights Visualized:
 Utilizing Power BI, I have developed a live dashboard that provides key insights into crucial aspects of the Hospitality Domain:
@@ -24,9 +24,34 @@ Utilizing Power BI, I have developed a live dashboard that provides key insights
 4.	DSRN (Daily Sellable Room Nights): The number of rooms available for sale each day.
 5.	DURN (Daily Utilized Room Nights): Insights into the number of rooms utilized by customers daily.
 
-## Learning Experience:
-This project has been an incredible learning experience, offering insights into the specific challenges and nuances of the hospitality domain. 
+## Provided Mock-up Dashboard
+<p align="center">
+    <img src="https://github.com/Kajal553/Hospitality--Domain/blob/main/mock%20up%20dashboard_atliq%20grands.png" width="600">
+</p>
+
+
+## Data Model
+
+<p align="center">
+    <img src='https://github.com/Kajal553/Hospitality--Domain/blob/main/DataModel.PNG' height="400">
+</p>
+
+
+## Lessons Learned from this Project
+-This project has been an incredible learning experience, offering insights into the specific challenges and nuances of the hospitality domain. 
 Each industry presents its own unique data landscape to navigate.
+
+-Examined various cancellation policies implemented by different hotels, revealing that a majority charge zero fees only for cancellations made three months prior to the booking date. Subsequent cancellations incur charges ranging from 60% to 90% of the booking cost.
+
+### Key Insights from the Dashboard
+Mumbai leads in revenue generation (669 M), followed by Bangalore, Hyderabad, and Delhi.
+AtliQ Exotica outperforms all seven property types with 320 million in revenue, a rating of 3.62, a 57% occupancy rate, and a 24.4% cancellation rate.
+AtliQ Bay boasts the highest occupancy at 66%.
+Week 24 recorded the highest revenue at 139.6 million.
+Delhi ranks highest in both occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
+AtliQ incurred a loss of approximately 298 million due to cancellations.
+Elite-type rooms have the highest number of bookings but also a higher cancellation rate.
+
 
 Dashboard Home Page:
 ![image](https://github.com/Kajal553/Hospitality--Domain/assets/60296466/d0b6b307-1621-4e8f-84af-752674ca1f93)
